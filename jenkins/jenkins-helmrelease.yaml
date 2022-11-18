@@ -457,7 +457,7 @@ spec:
       updateStrategy: {}
 
       ingress:
-        enabled: false
+        enabled: true
         # Override for the default paths that map requests to the backend
         paths: []
         # - backend:
